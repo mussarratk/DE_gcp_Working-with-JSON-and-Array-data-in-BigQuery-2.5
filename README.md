@@ -1,0 +1,1 @@
+# DE_gcp_Working-with-JSON-and-Array-data-in-BigQuery-2.5
